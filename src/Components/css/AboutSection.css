@@ -1,0 +1,9 @@
+.aboutSection{
+  width: 100%;
+  align-items: flex-start;
+  background-color: #DFF2F9;
+}
+
+.aboutSection p {
+  margin-left: 70px;
+}

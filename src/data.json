@@ -1,0 +1,62 @@
+{
+  "title": "Hello, I'm Sepehr!",
+  "subtitle": "Full Stack Dev | Open-Source Enthusiast",
+  "links": {
+    "github": "https://github.com/sepehr-alavi",
+    "linkedin": "https://www.linkedin.com/in/sepehr-alavi-42b842180",
+    "stackoverflow": "https://stackoverflow.com/story/sepehr.alv"
+  },
+  "background-image": "assets/images/showcase.jpg",
+  "section": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+          "type": "p",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet suspendisse interdum consectetur libero id. Accumsan lacus vel facilisis volutpat est velit."
+        },
+        {
+          "type": "p",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Nisl suscipit adipiscing bibendum est ultricies integer. Sit amet justo donec enim diam vulputate ut. Suscipit adipiscing bibendum est ultricies integer quis auctor."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "title": "React",
+            "img": "assets/images/React.png"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "HTML",
+            "img": "assets/images/html.png"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "CSS",
+            "img": "assets/images/css.png"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "title": "Javascript",
+            "img": "assets/images/javascript.png"
+          }
+        }
+      ]
+    }
+  ]
+}
